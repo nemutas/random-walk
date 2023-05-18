@@ -1,11 +1,5 @@
 # About
 
-This repository is [Three.js](https://threejs.org/) template with [Astro](https://astro.build/).
-
 https://nemutas.github.io/random-walk/
 
-# Using
-
-- VSCode
-- [WebGL GLSL Editor](https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor) (v1.3.0 -> If the extension is set to glsl, errors originating from threejs built-in variables will not occur.)
-- [Prettier Plugin for Astro](https://github.com/withastro/prettier-plugin-astro)
+<img src='https://github.com/nemutas/random-walk/assets/46724121/1b946978-911f-4669-a6ab-a3715e02e332' width='800' />
